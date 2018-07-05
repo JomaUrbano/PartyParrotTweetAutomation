@@ -1,1 +1,10 @@
+# Credentials containing 
+# -- CONSUMER KEY and CONSUMER SECRET
+# -- ACCESS_KEY and ACCESS_SECRET
 /credentials.py
+
+
+
+
+# Folder containing the party parrot gifs
+parrots/
