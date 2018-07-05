@@ -4,6 +4,8 @@
 /credentials.py
 
 
+# Python bytecode
+*.pyc
 
 
 # Folder containing the party parrot gifs
