@@ -24,6 +24,6 @@ status = ""
 # Tweets a randomed parrot every hour
 while True:
   twitter_api().update_with_media(chosenParrot(), status)
-  time.sleep(3600) 
+  time.sleep(1800) 
 
 
